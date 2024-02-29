@@ -53,7 +53,7 @@ th, td {
 }
 
 th:last-child, td:last-child {
-    border-right: none; /* Suppression de la ligne de séparation pour la dernière colonne */
+    border-right: none;
 }
 
 th {
